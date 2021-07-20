@@ -1,4 +1,4 @@
-#  A project to categorize Simpsons episodes into decade
+#  A simple exercise to categorize Simpsons episodes into decade
 
 ##  Using data.table in R
 Experimenting with dates and formats in R
