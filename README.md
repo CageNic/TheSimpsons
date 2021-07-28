@@ -2,7 +2,7 @@
 
 ##  Using data.table in R
 Experimenting with dates and formats in R
-And a few other methods while learning R
+And a few other methods while learning R  
 Added ggplot and ggsave
 
 ## Data sources and data management
