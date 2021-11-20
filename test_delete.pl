@@ -2,7 +2,6 @@
 use strict;
 use warnings;
 use feature 'say';
-use autodie;
 
 my $file = '/home/alice/R/simpsons_data.csv';
 
